@@ -1,0 +1,9 @@
+{
+  "name": "sample_blog_with_nextjs",
+  "version": "1.0.0",
+  "description": "Playing along with tutorial",
+  "main": "index.js",
+  "repository": "git@github.com:tamouse/sample_blog_with_nextjs.git",
+  "author": "Tamara Temple <tamouse@gmail.com>",
+  "license": "ISC"
+}
